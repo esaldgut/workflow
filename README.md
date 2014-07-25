@@ -1,6 +1,6 @@
 workflow
 ========
 
-bash-tmux-vim
+bash-tmux-vim-mvn-git
 
 Hello world !!!
